@@ -43,3 +43,5 @@ age = np.array([5.5, 6.0, 3.5, 1.5, 3.0, 4.0, 3.5, 2.0, 5.5, 6.0])
 
 
 print(sort_birds(birds, age))
+
+# this is to check
